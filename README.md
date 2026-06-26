@@ -4,8 +4,8 @@ I'm a solo dev (30 years) at the tip of Southern Africa building graphics system
 
 ### Working on
 
-- [Zed](https://otgaard.github.io/zed-ed/) - my multi-pass, DAG-based, WebGL 2 shader editor. No cookies or data stored on servers.
-- [otgaard](https://otgaard.github.io/) - my github static pages.
+- [otgaard](https://otgaard.github.io/) - my Github Pages personal site.
+- [Zed](https://otgaard.github.io/zed-ed/) - A multi-pass, DAG-based, WebGL 2 shader editor with Web Component embedded player.
 - Invoker - a DAG-based, scatter-gather Python engine for generating long-form documentary movies using AI.
 
 ### My Tech Stack
