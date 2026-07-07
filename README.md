@@ -1,6 +1,6 @@
 ## Hi, I'm Darren
 
-I'm a solo dev (30 years) at the tip of Southern Africa building graphics systems. I build 2D/3D rendering pipelines, video rendering systems, bespoke animations, and Graphical SaaS systems.
+I'm a solo dev at the tip of Southern Africa building graphics systems. I build 2D/3D rendering pipelines, video rendering systems, bespoke animations, and Graphical SaaS systems.
 
 ### Working on
 
